@@ -1,0 +1,8 @@
+/.env
+/.venv
+/.vscode
+/data
+/gitignore
+/README.md
+/venv
+/__pycache__
